@@ -3,11 +3,11 @@
   <title>Uncle_drew</title>
   
   
-  <link href="/MyBlog/atom.xml" rel="self"/>
+  <link href="/atom.xml" rel="self"/>
   
-  <link href="/MyBlog/"/>
+  <link href="/"/>
   <updated>2020-06-01T02:11:11.296Z</updated>
-  <id>/MyBlog/</id>
+  <id>/</id>
   
   <author>
     <name>Uncle_drew</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>J - Factorial Products UCF Local Programming Contest 2014</title>
-    <link href="/MyBlog/2020/06/01/UCF2014/"/>
-    <id>/MyBlog/2020/06/01/UCF2014/</id>
+    <link href="/2020/06/01/UCF2014/"/>
+    <id>/2020/06/01/UCF2014/</id>
     <published>2020-06-01T01:55:46.000Z</published>
     <updated>2020-06-01T02:11:11.296Z</updated>
     
@@ -31,17 +31,17 @@
     
     </summary>
     
-      <category term="Algorithm" scheme="/MyBlog/categories/Algorithm/"/>
+      <category term="Algorithm" scheme="/categories/Algorithm/"/>
     
     
-      <category term="数学" scheme="/MyBlog/tags/%E6%95%B0%E5%AD%A6/"/>
+      <category term="数学" scheme="/tags/%E6%95%B0%E5%AD%A6/"/>
     
   </entry>
   
   <entry>
     <title>基于我的视线，谈谈我对现在网络环境的一些看法</title>
-    <link href="/MyBlog/2020/05/17/licenses/"/>
-    <id>/MyBlog/2020/05/17/licenses/</id>
+    <link href="/2020/05/17/licenses/"/>
+    <id>/2020/05/17/licenses/</id>
     <published>2020-05-17T11:41:34.000Z</published>
     <updated>2020-05-17T13:02:38.812Z</updated>
     
@@ -53,19 +53,19 @@
     
     </summary>
     
-      <category term="Life" scheme="/MyBlog/categories/Life/"/>
+      <category term="Life" scheme="/categories/Life/"/>
     
     
-      <category term="lisense" scheme="/MyBlog/tags/lisense/"/>
+      <category term="lisense" scheme="/tags/lisense/"/>
     
-      <category term="blog" scheme="/MyBlog/tags/blog/"/>
+      <category term="blog" scheme="/tags/blog/"/>
     
   </entry>
   
   <entry>
     <title>团结就是力量</title>
-    <link href="/MyBlog/2020/05/14/nowcoder14411/"/>
-    <id>/MyBlog/2020/05/14/nowcoder14411/</id>
+    <link href="/2020/05/14/nowcoder14411/"/>
+    <id>/2020/05/14/nowcoder14411/</id>
     <published>2020-05-14T09:40:07.000Z</published>
     <updated>2020-05-14T10:07:23.942Z</updated>
     
@@ -77,19 +77,19 @@
     
     </summary>
     
-      <category term="Algorithm" scheme="/MyBlog/categories/Algorithm/"/>
+      <category term="Algorithm" scheme="/categories/Algorithm/"/>
     
     
-      <category term="nowcoder" scheme="/MyBlog/tags/nowcoder/"/>
+      <category term="nowcoder" scheme="/tags/nowcoder/"/>
     
-      <category term="tarjan" scheme="/MyBlog/tags/tarjan/"/>
+      <category term="tarjan" scheme="/tags/tarjan/"/>
     
   </entry>
   
   <entry>
     <title>Picgo上传到GitHub莫名其妙的出错后，我选择自己实现上传功能</title>
-    <link href="/MyBlog/2020/05/14/88picgo/"/>
-    <id>/MyBlog/2020/05/14/88picgo/</id>
+    <link href="/2020/05/14/88picgo/"/>
+    <id>/2020/05/14/88picgo/</id>
     <published>2020-05-14T02:42:48.000Z</published>
     <updated>2020-05-14T03:35:05.397Z</updated>
     
@@ -101,23 +101,23 @@
     
     </summary>
     
-      <category term="Tutorial" scheme="/MyBlog/categories/Tutorial/"/>
+      <category term="Tutorial" scheme="/categories/Tutorial/"/>
     
     
-      <category term="Github" scheme="/MyBlog/tags/Github/"/>
+      <category term="Github" scheme="/tags/Github/"/>
     
-      <category term="图床" scheme="/MyBlog/tags/%E5%9B%BE%E5%BA%8A/"/>
+      <category term="图床" scheme="/tags/%E5%9B%BE%E5%BA%8A/"/>
     
-      <category term="JavaScript" scheme="/MyBlog/tags/JavaScript/"/>
+      <category term="JavaScript" scheme="/tags/JavaScript/"/>
     
-      <category term="Html" scheme="/MyBlog/tags/Html/"/>
+      <category term="Html" scheme="/tags/Html/"/>
     
   </entry>
   
   <entry>
     <title>COVID-19与我</title>
-    <link href="/MyBlog/2020/05/14/COVID-19/"/>
-    <id>/MyBlog/2020/05/14/COVID-19/</id>
+    <link href="/2020/05/14/COVID-19/"/>
+    <id>/2020/05/14/COVID-19/</id>
     <published>2020-05-13T23:56:03.000Z</published>
     <updated>2020-05-14T00:23:02.951Z</updated>
     
@@ -129,19 +129,19 @@
     
     </summary>
     
-      <category term="Life" scheme="/MyBlog/categories/Life/"/>
+      <category term="Life" scheme="/categories/Life/"/>
     
     
-      <category term="Life" scheme="/MyBlog/tags/Life/"/>
+      <category term="Life" scheme="/tags/Life/"/>
     
-      <category term="COVID-19" scheme="/MyBlog/tags/COVID-19/"/>
+      <category term="COVID-19" scheme="/tags/COVID-19/"/>
     
   </entry>
   
   <entry>
     <title>Hexo添加可实时发布的说说界面 | Artitalk.js</title>
-    <link href="/MyBlog/2020/05/11/artitalk/"/>
-    <id>/MyBlog/2020/05/11/artitalk/</id>
+    <link href="/2020/05/11/artitalk/"/>
+    <id>/2020/05/11/artitalk/</id>
     <published>2020-05-11T01:45:23.000Z</published>
     <updated>2020-05-11T02:10:51.457Z</updated>
     
@@ -153,21 +153,21 @@
     
     </summary>
     
-      <category term="Life" scheme="/MyBlog/categories/Life/"/>
+      <category term="Life" scheme="/categories/Life/"/>
     
     
-      <category term="html" scheme="/MyBlog/tags/html/"/>
+      <category term="html" scheme="/tags/html/"/>
     
-      <category term="javascript" scheme="/MyBlog/tags/javascript/"/>
+      <category term="javascript" scheme="/tags/javascript/"/>
     
-      <category term="Hexo" scheme="/MyBlog/tags/Hexo/"/>
+      <category term="Hexo" scheme="/tags/Hexo/"/>
     
   </entry>
   
   <entry>
     <title>一步步带你通过Ajax+Github提供的api 实现前端剪切板图片上传</title>
-    <link href="/MyBlog/2020/05/08/artiimg/"/>
-    <id>/MyBlog/2020/05/08/artiimg/</id>
+    <link href="/2020/05/08/artiimg/"/>
+    <id>/2020/05/08/artiimg/</id>
     <published>2020-05-08T10:33:33.000Z</published>
     <updated>2020-05-08T11:32:24.211Z</updated>
     
@@ -179,23 +179,23 @@
     
     </summary>
     
-      <category term="Tutorial" scheme="/MyBlog/categories/Tutorial/"/>
+      <category term="Tutorial" scheme="/categories/Tutorial/"/>
     
     
-      <category term="Github" scheme="/MyBlog/tags/Github/"/>
+      <category term="Github" scheme="/tags/Github/"/>
     
-      <category term="web" scheme="/MyBlog/tags/web/"/>
+      <category term="web" scheme="/tags/web/"/>
     
-      <category term="javascript" scheme="/MyBlog/tags/javascript/"/>
+      <category term="javascript" scheme="/tags/javascript/"/>
     
-      <category term="ajax" scheme="/MyBlog/tags/ajax/"/>
+      <category term="ajax" scheme="/tags/ajax/"/>
     
   </entry>
   
   <entry>
     <title>Javascript+Ajax+SMMS 实现前端剪切板图片上传</title>
-    <link href="/MyBlog/2020/05/07/imgupload/"/>
-    <id>/MyBlog/2020/05/07/imgupload/</id>
+    <link href="/2020/05/07/imgupload/"/>
+    <id>/2020/05/07/imgupload/</id>
     <published>2020-05-07T03:55:51.000Z</published>
     <updated>2020-05-08T11:21:16.024Z</updated>
     
@@ -207,21 +207,21 @@
     
     </summary>
     
-      <category term="Tutorial" scheme="/MyBlog/categories/Tutorial/"/>
+      <category term="Tutorial" scheme="/categories/Tutorial/"/>
     
     
-      <category term="web" scheme="/MyBlog/tags/web/"/>
+      <category term="web" scheme="/tags/web/"/>
     
-      <category term="javascript" scheme="/MyBlog/tags/javascript/"/>
+      <category term="javascript" scheme="/tags/javascript/"/>
     
-      <category term="ajax" scheme="/MyBlog/tags/ajax/"/>
+      <category term="ajax" scheme="/tags/ajax/"/>
     
   </entry>
   
   <entry>
     <title>ICPC Pacific Northwest Regional Contest 2019  B. Perfect Flush</title>
-    <link href="/MyBlog/2020/05/05/PNRC2019B/"/>
-    <id>/MyBlog/2020/05/05/PNRC2019B/</id>
+    <link href="/2020/05/05/PNRC2019B/"/>
+    <id>/2020/05/05/PNRC2019B/</id>
     <published>2020-05-05T01:09:45.000Z</published>
     <updated>2020-05-05T01:30:14.539Z</updated>
     
@@ -233,19 +233,19 @@
     
     </summary>
     
-      <category term="Training" scheme="/MyBlog/categories/Training/"/>
+      <category term="Training" scheme="/categories/Training/"/>
     
     
-      <category term="vector" scheme="/MyBlog/tags/vector/"/>
+      <category term="vector" scheme="/tags/vector/"/>
     
-      <category term="单调栈" scheme="/MyBlog/tags/%E5%8D%95%E8%B0%83%E6%A0%88/"/>
+      <category term="单调栈" scheme="/tags/%E5%8D%95%E8%B0%83%E6%A0%88/"/>
     
   </entry>
   
   <entry>
     <title>Atcoder ABC 166 题解</title>
-    <link href="/MyBlog/2020/05/03/abc166/"/>
-    <id>/MyBlog/2020/05/03/abc166/</id>
+    <link href="/2020/05/03/abc166/"/>
+    <id>/2020/05/03/abc166/</id>
     <published>2020-05-03T14:34:04.000Z</published>
     <updated>2020-05-03T14:47:05.715Z</updated>
     
@@ -257,19 +257,19 @@
     
     </summary>
     
-      <category term="Algorithm" scheme="/MyBlog/categories/Algorithm/"/>
+      <category term="Algorithm" scheme="/categories/Algorithm/"/>
     
     
-      <category term="思维" scheme="/MyBlog/tags/%E6%80%9D%E7%BB%B4/"/>
+      <category term="思维" scheme="/tags/%E6%80%9D%E7%BB%B4/"/>
     
-      <category term="atcoder" scheme="/MyBlog/tags/atcoder/"/>
+      <category term="atcoder" scheme="/tags/atcoder/"/>
     
   </entry>
   
   <entry>
     <title>Eight HDU - 1043</title>
-    <link href="/MyBlog/2020/05/03/hdu1043/"/>
-    <id>/MyBlog/2020/05/03/hdu1043/</id>
+    <link href="/2020/05/03/hdu1043/"/>
+    <id>/2020/05/03/hdu1043/</id>
     <published>2020-05-03T08:09:39.000Z</published>
     <updated>2020-05-03T08:33:09.250Z</updated>
     
@@ -281,23 +281,23 @@
     
     </summary>
     
-      <category term="Algorithm" scheme="/MyBlog/categories/Algorithm/"/>
+      <category term="Algorithm" scheme="/categories/Algorithm/"/>
     
     
-      <category term="HDU" scheme="/MyBlog/tags/HDU/"/>
+      <category term="HDU" scheme="/tags/HDU/"/>
     
-      <category term="hash" scheme="/MyBlog/tags/hash/"/>
+      <category term="hash" scheme="/tags/hash/"/>
     
-      <category term="bfs" scheme="/MyBlog/tags/bfs/"/>
+      <category term="bfs" scheme="/tags/bfs/"/>
     
-      <category term="康拓展开" scheme="/MyBlog/tags/%E5%BA%B7%E6%8B%93%E5%B1%95%E5%BC%80/"/>
+      <category term="康拓展开" scheme="/tags/%E5%BA%B7%E6%8B%93%E5%B1%95%E5%BC%80/"/>
     
   </entry>
   
   <entry>
     <title>JLOI2011-飞行路线</title>
-    <link href="/MyBlog/2020/04/26/jloi2011/"/>
-    <id>/MyBlog/2020/04/26/jloi2011/</id>
+    <link href="/2020/04/26/jloi2011/"/>
+    <id>/2020/04/26/jloi2011/</id>
     <published>2020-04-26T08:50:54.000Z</published>
     <updated>2020-05-03T08:16:17.232Z</updated>
     
@@ -309,23 +309,23 @@
     
     </summary>
     
-      <category term="Algorithm" scheme="/MyBlog/categories/Algorithm/"/>
+      <category term="Algorithm" scheme="/categories/Algorithm/"/>
     
     
-      <category term="Dijkstra" scheme="/MyBlog/tags/Dijkstra/"/>
+      <category term="Dijkstra" scheme="/tags/Dijkstra/"/>
     
-      <category term="Priority queue" scheme="/MyBlog/tags/Priority-queue/"/>
+      <category term="Priority queue" scheme="/tags/Priority-queue/"/>
     
-      <category term="分层图最短路" scheme="/MyBlog/tags/%E5%88%86%E5%B1%82%E5%9B%BE%E6%9C%80%E7%9F%AD%E8%B7%AF/"/>
+      <category term="分层图最短路" scheme="/tags/%E5%88%86%E5%B1%82%E5%9B%BE%E6%9C%80%E7%9F%AD%E8%B7%AF/"/>
     
-      <category term="链式前向星" scheme="/MyBlog/tags/%E9%93%BE%E5%BC%8F%E5%89%8D%E5%90%91%E6%98%9F/"/>
+      <category term="链式前向星" scheme="/tags/%E9%93%BE%E5%BC%8F%E5%89%8D%E5%90%91%E6%98%9F/"/>
     
   </entry>
   
   <entry>
     <title>SCOI2009 最长距离</title>
-    <link href="/MyBlog/2020/04/22/SCOI2009/"/>
-    <id>/MyBlog/2020/04/22/SCOI2009/</id>
+    <link href="/2020/04/22/SCOI2009/"/>
+    <id>/2020/04/22/SCOI2009/</id>
     <published>2020-04-22T01:03:11.000Z</published>
     <updated>2020-04-26T08:54:38.377Z</updated>
     
@@ -337,21 +337,21 @@
     
     </summary>
     
-      <category term="Algorithm" scheme="/MyBlog/categories/Algorithm/"/>
+      <category term="Algorithm" scheme="/categories/Algorithm/"/>
     
     
-      <category term="Thinking" scheme="/MyBlog/tags/Thinking/"/>
+      <category term="Thinking" scheme="/tags/Thinking/"/>
     
-      <category term="spfa" scheme="/MyBlog/tags/spfa/"/>
+      <category term="spfa" scheme="/tags/spfa/"/>
     
-      <category term="scoi" scheme="/MyBlog/tags/scoi/"/>
+      <category term="scoi" scheme="/tags/scoi/"/>
     
   </entry>
   
   <entry>
     <title>Hexo-Markdown写作进阶——标签</title>
-    <link href="/MyBlog/2020/04/18/mdjj/"/>
-    <id>/MyBlog/2020/04/18/mdjj/</id>
+    <link href="/2020/04/18/mdjj/"/>
+    <id>/2020/04/18/mdjj/</id>
     <published>2020-04-18T14:24:11.000Z</published>
     <updated>2020-04-18T15:09:54.864Z</updated>
     
@@ -363,23 +363,23 @@
     
     </summary>
     
-      <category term="Life" scheme="/MyBlog/categories/Life/"/>
+      <category term="Life" scheme="/categories/Life/"/>
     
     
-      <category term="html" scheme="/MyBlog/tags/html/"/>
+      <category term="html" scheme="/tags/html/"/>
     
-      <category term="javascript" scheme="/MyBlog/tags/javascript/"/>
+      <category term="javascript" scheme="/tags/javascript/"/>
     
-      <category term="Hexo" scheme="/MyBlog/tags/Hexo/"/>
+      <category term="Hexo" scheme="/tags/Hexo/"/>
     
-      <category term="markdown" scheme="/MyBlog/tags/markdown/"/>
+      <category term="markdown" scheme="/tags/markdown/"/>
     
   </entry>
   
   <entry>
     <title>为你的hexo博客添加动态的（可直接发布说说的）说说页面</title>
-    <link href="/MyBlog/2020/04/10/hexo-shuoshuo/"/>
-    <id>/MyBlog/2020/04/10/hexo-shuoshuo/</id>
+    <link href="/2020/04/10/hexo-shuoshuo/"/>
+    <id>/2020/04/10/hexo-shuoshuo/</id>
     <published>2020-04-10T07:33:31.000Z</published>
     <updated>2020-05-11T02:54:06.453Z</updated>
     
@@ -391,19 +391,19 @@
     
     </summary>
     
-      <category term="Life" scheme="/MyBlog/categories/Life/"/>
+      <category term="Life" scheme="/categories/Life/"/>
     
     
-      <category term="html" scheme="/MyBlog/tags/html/"/>
+      <category term="html" scheme="/tags/html/"/>
     
-      <category term="javascript" scheme="/MyBlog/tags/javascript/"/>
+      <category term="javascript" scheme="/tags/javascript/"/>
     
   </entry>
   
   <entry>
     <title>valine添加自定义表情</title>
-    <link href="/MyBlog/2020/04/09/valinebq/"/>
-    <id>/MyBlog/2020/04/09/valinebq/</id>
+    <link href="/2020/04/09/valinebq/"/>
+    <id>/2020/04/09/valinebq/</id>
     <published>2020-04-09T12:54:31.000Z</published>
     <updated>2020-04-21T13:24:44.425Z</updated>
     
@@ -415,43 +415,19 @@
     
     </summary>
     
-      <category term="Tutorial" scheme="/MyBlog/categories/Tutorial/"/>
+      <category term="Tutorial" scheme="/categories/Tutorial/"/>
     
     
-      <category term="Tutorial" scheme="/MyBlog/tags/Tutorial/"/>
+      <category term="Tutorial" scheme="/tags/Tutorial/"/>
     
-      <category term="valine" scheme="/MyBlog/tags/valine/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Codeforces Round 632 (Div. 2) F. Kate and imperfection</title>
-    <link href="/MyBlog/2020/04/09/cf1333F/"/>
-    <id>/MyBlog/2020/04/09/cf1333F/</id>
-    <published>2020-04-09T09:08:19.000Z</published>
-    <updated>2020-04-09T10:03:47.036Z</updated>
-    
-    <content type="html"><![CDATA[<h1 id="Kate-and-imperfection"><a href="#Kate-and-imperfection" class="headerlink" title="Kate and imperfection"></a>Kate and imperfection</h1><p>Link: <a href="https://codeforces.com/contest/1333/problem/F" target="_blank" rel="noopener">Kate and imperfection</a></p><h2 id="Description"><a href="#Description" class="headerlink" title="Description"></a>Description</h2><p>Kate has a set S of n integers <script type="math/tex">\{1, \dots, n\}</script>.</p><p>She thinks that imperfection of a subset <script type="math/tex">M \subseteq S</script> is equal to the maximum of <script type="math/tex">gcd(a,b)</script> over all pairs <script type="math/tex">(a,b)</script> such that both a and b are in M and <script type="math/tex">a \neq b</script>.</p><p>Kate is a very neat girl and for each <script type="math/tex">k \in \{2, \dots, n\}</script> she wants to find a subset that has the smallest imperfection among all subsets in S of size k. There can be more than one subset with the smallest imperfection and the same size, but you don&#39;t need to worry about it. Kate wants to find all the subsets herself, but she needs your help to find the smallest possible imperfection for each size k, will name it <script type="math/tex">I_k</script>.</p><p>Please, help Kate to find <script type="math/tex">I_2</script>, <script type="math/tex">I_3</script>, ..., <script type="math/tex">I_n</script>.</p><p>Input<br>The first and only line in the input consists of only one integer n (<script type="math/tex">2\le n \le 5 \cdot 10^5</script>)  — the size of the given set S.</p><p>Output<br>Output contains only one line that includes n−1 integers: <script type="math/tex">I_2</script>, <script type="math/tex">I_3</script>, ..., <script type="math/tex">I_n</script>.</p><p>Examples</p><blockquote><p>input<br>2<br>output<br>1<br>input<br>3<br>output<br>1 1 </p></blockquote><p>Note<br>First sample: answer is 1, because <script type="math/tex">gcd(1, 2) = 1</script>.</p><p>Second sample: there are subsets of S with sizes 2,3 with imperfection equal to 1. For example, <script type="math/tex">\{2,3\}</script> and <script type="math/tex">\{1, 2, 3\}</script>.</p><h2 id="Problem-solving"><a href="#Problem-solving" class="headerlink" title="Problem solving"></a>Problem solving</h2><p>这道题的意思就是给你一个数n，让你分别找出<script type="math/tex">1-n</script>这个序列的长度为<script type="math/tex">2-n</script>的子序列，使得子序列中两两间的<script type="math/tex">gcd</script>的最大值最小。输出这个最小值。</p><p>如果有质数，我们一定是往里面放质数。当质数用完的时候，我们怎么办呢？<br>因为我们要求的是两两间的<script type="math/tex">gcd</script>的最大值的最小。所以我们可以先放与当前序列中质数的<script type="math/tex">gcd</script>为2的数，然后是3，直到放完<br>放完之后，放入的每一个数的每一个因子在序列中都存在了，所以此时能产生的最大的<script type="math/tex">gcd</script>就是它的最大的因子。</p><p>然后我们用一个数组维护某一个数的最大因子，然后排序输出即可。</p><h2 id="Code"><a href="#Code" class="headerlink" title="Code"></a>Code</h2><pre><code class="lang-c++">#include&lt;bits/stdc++.h&gt;using namespace std;const int maxn = 5e5+10;int p[maxn];int main(){    int n;    cin&gt;&gt;n;    for(int i=1;i&lt;=n;i++)   p[i]=1;    for(int i=2;i&lt;=n;i++){        for(int j=i+i;j&lt;=n;j+=i){            p[j]=i;        }    }    sort(p+1,p+1+n);    for(int i=2;i&lt;=n;i++)   cout&lt;&lt;p[i]&lt;&lt;&quot; &quot;;    return 0;}</code></pre>]]></content>
-    
-    <summary type="html">
-    
-      div2的F，过了好多，然鹅比赛期间我也没写出来。
-    
-    </summary>
-    
-      <category term="c/c++" scheme="/MyBlog/categories/c-c/"/>
-    
-    
-      <category term="c/c++" scheme="/MyBlog/tags/c-c/"/>
-    
-      <category term="codeforces" scheme="/MyBlog/tags/codeforces/"/>
+      <category term="valine" scheme="/tags/valine/"/>
     
   </entry>
   
   <entry>
     <title>Codeforces Round 632 (Div. 2) D. Challenges in school №41</title>
-    <link href="/MyBlog/2020/04/09/cf1333D/"/>
-    <id>/MyBlog/2020/04/09/cf1333D/</id>
+    <link href="/2020/04/09/cf1333D/"/>
+    <id>/2020/04/09/cf1333D/</id>
     <published>2020-04-09T09:08:19.000Z</published>
     <updated>2020-04-09T10:04:08.024Z</updated>
     
@@ -463,21 +439,45 @@
     
     </summary>
     
-      <category term="c/c++" scheme="/MyBlog/categories/c-c/"/>
+      <category term="c/c++" scheme="/categories/c-c/"/>
     
     
-      <category term="c/c++" scheme="/MyBlog/tags/c-c/"/>
+      <category term="c/c++" scheme="/tags/c-c/"/>
     
-      <category term="codeforces" scheme="/MyBlog/tags/codeforces/"/>
+      <category term="codeforces" scheme="/tags/codeforces/"/>
     
-      <category term="贪心" scheme="/MyBlog/tags/%E8%B4%AA%E5%BF%83/"/>
+      <category term="贪心" scheme="/tags/%E8%B4%AA%E5%BF%83/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Codeforces Round 632 (Div. 2) F. Kate and imperfection</title>
+    <link href="/2020/04/09/cf1333F/"/>
+    <id>/2020/04/09/cf1333F/</id>
+    <published>2020-04-09T09:08:19.000Z</published>
+    <updated>2020-04-09T10:03:47.036Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="Kate-and-imperfection"><a href="#Kate-and-imperfection" class="headerlink" title="Kate and imperfection"></a>Kate and imperfection</h1><p>Link: <a href="https://codeforces.com/contest/1333/problem/F" target="_blank" rel="noopener">Kate and imperfection</a></p><h2 id="Description"><a href="#Description" class="headerlink" title="Description"></a>Description</h2><p>Kate has a set S of n integers <script type="math/tex">\{1, \dots, n\}</script>.</p><p>She thinks that imperfection of a subset <script type="math/tex">M \subseteq S</script> is equal to the maximum of <script type="math/tex">gcd(a,b)</script> over all pairs <script type="math/tex">(a,b)</script> such that both a and b are in M and <script type="math/tex">a \neq b</script>.</p><p>Kate is a very neat girl and for each <script type="math/tex">k \in \{2, \dots, n\}</script> she wants to find a subset that has the smallest imperfection among all subsets in S of size k. There can be more than one subset with the smallest imperfection and the same size, but you don&#39;t need to worry about it. Kate wants to find all the subsets herself, but she needs your help to find the smallest possible imperfection for each size k, will name it <script type="math/tex">I_k</script>.</p><p>Please, help Kate to find <script type="math/tex">I_2</script>, <script type="math/tex">I_3</script>, ..., <script type="math/tex">I_n</script>.</p><p>Input<br>The first and only line in the input consists of only one integer n (<script type="math/tex">2\le n \le 5 \cdot 10^5</script>)  — the size of the given set S.</p><p>Output<br>Output contains only one line that includes n−1 integers: <script type="math/tex">I_2</script>, <script type="math/tex">I_3</script>, ..., <script type="math/tex">I_n</script>.</p><p>Examples</p><blockquote><p>input<br>2<br>output<br>1<br>input<br>3<br>output<br>1 1 </p></blockquote><p>Note<br>First sample: answer is 1, because <script type="math/tex">gcd(1, 2) = 1</script>.</p><p>Second sample: there are subsets of S with sizes 2,3 with imperfection equal to 1. For example, <script type="math/tex">\{2,3\}</script> and <script type="math/tex">\{1, 2, 3\}</script>.</p><h2 id="Problem-solving"><a href="#Problem-solving" class="headerlink" title="Problem solving"></a>Problem solving</h2><p>这道题的意思就是给你一个数n，让你分别找出<script type="math/tex">1-n</script>这个序列的长度为<script type="math/tex">2-n</script>的子序列，使得子序列中两两间的<script type="math/tex">gcd</script>的最大值最小。输出这个最小值。</p><p>如果有质数，我们一定是往里面放质数。当质数用完的时候，我们怎么办呢？<br>因为我们要求的是两两间的<script type="math/tex">gcd</script>的最大值的最小。所以我们可以先放与当前序列中质数的<script type="math/tex">gcd</script>为2的数，然后是3，直到放完<br>放完之后，放入的每一个数的每一个因子在序列中都存在了，所以此时能产生的最大的<script type="math/tex">gcd</script>就是它的最大的因子。</p><p>然后我们用一个数组维护某一个数的最大因子，然后排序输出即可。</p><h2 id="Code"><a href="#Code" class="headerlink" title="Code"></a>Code</h2><pre><code class="lang-c++">#include&lt;bits/stdc++.h&gt;using namespace std;const int maxn = 5e5+10;int p[maxn];int main(){    int n;    cin&gt;&gt;n;    for(int i=1;i&lt;=n;i++)   p[i]=1;    for(int i=2;i&lt;=n;i++){        for(int j=i+i;j&lt;=n;j+=i){            p[j]=i;        }    }    sort(p+1,p+1+n);    for(int i=2;i&lt;=n;i++)   cout&lt;&lt;p[i]&lt;&lt;&quot; &quot;;    return 0;}</code></pre>]]></content>
+    
+    <summary type="html">
+    
+      div2的F，过了好多，然鹅比赛期间我也没写出来。
+    
+    </summary>
+    
+      <category term="c/c++" scheme="/categories/c-c/"/>
+    
+    
+      <category term="c/c++" scheme="/tags/c-c/"/>
+    
+      <category term="codeforces" scheme="/tags/codeforces/"/>
     
   </entry>
   
   <entry>
     <title>Hexo使用hexo-generator-search添加local-search</title>
-    <link href="/MyBlog/2020/04/07/local-search/"/>
-    <id>/MyBlog/2020/04/07/local-search/</id>
+    <link href="/2020/04/07/local-search/"/>
+    <id>/2020/04/07/local-search/</id>
     <published>2020-04-07T14:32:43.000Z</published>
     <updated>2020-04-08T02:45:32.366Z</updated>
     
@@ -489,17 +489,17 @@
     
     </summary>
     
-      <category term="Tutorial" scheme="/MyBlog/categories/Tutorial/"/>
+      <category term="Tutorial" scheme="/categories/Tutorial/"/>
     
     
-      <category term="hexo" scheme="/MyBlog/tags/hexo/"/>
+      <category term="hexo" scheme="/tags/hexo/"/>
     
   </entry>
   
   <entry>
     <title>HDU-1074  Doing Homework</title>
-    <link href="/MyBlog/2020/04/06/hdu1074/"/>
-    <id>/MyBlog/2020/04/06/hdu1074/</id>
+    <link href="/2020/04/06/hdu1074/"/>
+    <id>/2020/04/06/hdu1074/</id>
     <published>2020-04-06T08:28:38.000Z</published>
     <updated>2020-04-14T08:21:53.946Z</updated>
     
@@ -511,16 +511,16 @@
     
     </summary>
     
-      <category term="Algorithm" scheme="/MyBlog/categories/Algorithm/"/>
+      <category term="Algorithm" scheme="/categories/Algorithm/"/>
     
     
-      <category term="Algorithm" scheme="/MyBlog/tags/Algorithm/"/>
+      <category term="Algorithm" scheme="/tags/Algorithm/"/>
     
-      <category term="c/c++" scheme="/MyBlog/tags/c-c/"/>
+      <category term="c/c++" scheme="/tags/c-c/"/>
     
-      <category term="HDU" scheme="/MyBlog/tags/HDU/"/>
+      <category term="HDU" scheme="/tags/HDU/"/>
     
-      <category term="状压dp" scheme="/MyBlog/tags/%E7%8A%B6%E5%8E%8Bdp/"/>
+      <category term="状压dp" scheme="/tags/%E7%8A%B6%E5%8E%8Bdp/"/>
     
   </entry>
   
