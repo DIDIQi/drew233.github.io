@@ -200,16 +200,6 @@
               </li>
             
               <li>
-                <a href="https://about.cndrew.cn/">
-                  <span class="faa-parent animated-hover">
-                    <i class="fa  fa-leaf faa-wrench" aria-hidden="true"></i>
-                    关于
-                  </span>
-                </a>
-                
-              </li>
-            
-              <li>
                 <a href="/archives">
                   <span class="faa-parent animated-hover">
                     <i class="fa  fa-archive faa-shake" aria-hidden="true"></i>
@@ -663,16 +653,6 @@ $(document).ready(function() {
       </li>
     
       <li>
-        <a href="https://about.cndrew.cn/">
-          <span class="faa-parent animated-hover">
-            <i class="fa  fa-leaf faa-wrench" aria-hidden="true"></i>
-            关于
-          </span>
-        </a>
-        
-      </li>
-    
-      <li>
         <a href="/archives">
           <span class="faa-parent animated-hover">
             <i class="fa  fa-archive faa-shake" aria-hidden="true"></i>
@@ -844,7 +824,12 @@ $(document).ready(function() {
 </body>
 
 </html>
-toc', // 放置目录的容器
+ocument).ready(function() {
+  if ($(".toc").length > 0 && document.body.clientWidth > 1200) {
+    if ($(".pattern-center").length > 0) { //有图的情况
+      tocbot.init({
+          // Where to render the table of contents.
+          tocSelector: '.toc', // 放置目录的容器
           // Where to grab the headings to build the table of contents.
           contentSelector: '.entry-content', // 正文内容所在
           // Which headings to grab inside of the contentSelector element.
@@ -960,16 +945,6 @@ toc', // 放置目录的容器
           <span class="faa-parent animated-hover">
             <i class="fa  fa-home faa-shake" aria-hidden="true"></i>
             首页
-          </span>
-        </a>
-        
-      </li>
-    
-      <li>
-        <a href="https://about.cndrew.cn/">
-          <span class="faa-parent animated-hover">
-            <i class="fa  fa-leaf faa-wrench" aria-hidden="true"></i>
-            关于
           </span>
         </a>
         
